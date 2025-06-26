@@ -1,0 +1,62 @@
+# 🚢 Titanic Survival Analysis – EDA + Tableau Dashboard
+
+This project explores the Titanic dataset to understand which factors influenced passenger survival. Using Python for data cleaning and visualization, and Tableau for an interactive dashboard, the project uncovers hidden insights and survival patterns.
+
+---
+
+## 📁 Project Structure
+
+| File/Folder              | Description                                      |
+|--------------------------|--------------------------------------------------|
+| `titanic_cleaned.csv`    | Final cleaned dataset used for visualization     |
+| `titanic_dashboard.twbx` | Tableau Packaged Workbook with all charts        |
+| `titanic_dashboard.pdf`  | Exported PDF of the final dashboard              |
+| `eda_visualizations.ipynb` | Jupyter Notebook with Python EDA               |
+| `images/` (optional)     | Screenshots of Tableau charts (if added)         |
+| `README.md`              | Project overview and description                 |
+
+---
+
+## 📊 Key Visualizations
+
+- 🥧 Pie Chart: Overall Survival Distribution  
+- 🚻 Bar Chart: Survival by Gender  
+- 🎟️ Stacked Bar: Survival by Passenger Class  
+- 🎂 Age Plot: Age vs Survival  
+- 👨‍👩‍👧‍👦 Family Size vs Survival  
+- 📍 Optional: Embarked Location vs Survival, Fare vs Survival
+
+---
+
+## 🔍 Key Insights
+
+- **Female passengers** had a significantly higher survival rate than males.
+- **1st class passengers** had the highest survival rate.
+- **Children under 10** had a higher chance of survival.
+- **Solo travelers** were less likely to survive than those with families.
+
+---
+
+## 📚 Dataset Source
+
+[Kaggle: Titanic Dataset by Yasser](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
+
+---
+
+## 🛠️ Tools Used
+
+- Python (Pandas, Seaborn, Matplotlib)
+- Tableau Desktop
+- Jupyter Notebook
+
+---
+
+## 🧠 Author
+
+**Divyanshi Sharma**  
+Data Science & AI/ML Student  
+[GitHub Profile](https://github.com/Divyanshi88)
+
+---
+
+🎯 *This project was built for hands-on practice in data analysis, storytelling with data, and dashboard design.*
